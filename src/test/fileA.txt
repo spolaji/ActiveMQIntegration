@@ -1,6 +1,1 @@
-Fun with tracking branches.
-Fun with git network commands.
-Fun with git network commands - updating this file from remote repo.
-Fun with git network commands - updating again..
 feature 1 wip
-feature 2
